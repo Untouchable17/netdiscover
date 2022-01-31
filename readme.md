@@ -2,7 +2,7 @@
 
 netdiscover - очень важная утилита для определения адреса Wi-Fi-сети с выключенным DHCP. Этот скрипт небольшой аналог оригинальной утилиты в самом линуксе
 
-Также установите библиотеку scapy url:`https://scapy.readthedocs.io/en/latest/installation.html`
+Также установите библиотеку scapy -- `https://scapy.readthedocs.io/en/latest/installation.html`
 
 ## Как работает
 
